@@ -1,0 +1,11 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.pyc
+
+# Virtual environments & IDEs
+.vscode/
+.ipynb_checkpoints/
+.streamlit/
+
+# Temporary test images
+test_face.jpeg
