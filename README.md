@@ -17,3 +17,10 @@ Optimized using the **FER2013** (Facial Expression Recognition) dataset consisti
 2. Install all required software packages:
    ```bash
    pip install -r requirements.txt
+
+## Execute the server thread via your terminal:
+Bash
+streamlit run app.py
+
+## Team Contributions
+Shaza: Built the core Streamlit reactive modular UI architecture (app.py), handled preprocessing validations (preprocess.py), and managed live capture frame conversions.
